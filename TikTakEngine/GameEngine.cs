@@ -1,4 +1,6 @@
-﻿namespace TikTakEngine;
+﻿using System.Data;
+
+namespace TikTakEngine;
 
 public class GameEngine
 {
@@ -12,6 +14,33 @@ public class GameEngine
     public GameEngine()
     {
         InitialBoard();
+    }
+
+    private char GetCell(int row, int col)
+    {
+        return board[row, col];
+    }
+
+    public void PrintBoard()
+    {
+        Console.WriteLine("Состояние поля:");
+        Console.Write("  ");
+        for(int col = 0; col < BoardSize; col++)
+        {
+            Console.Write($"{col} ");
+        }
+        Console.WriteLine();
+
+        for (int row = 0; row < BoardSize; row++)
+        {
+            Console.Write($"{row} ");
+            for(int col = 0; col < BoardSize; col++)
+            {
+                Console.Write($"{GetCell(row, col)} ");
+            }
+            Console.WriteLine();
+        }
+
     }
 
     private void InitialBoard()
