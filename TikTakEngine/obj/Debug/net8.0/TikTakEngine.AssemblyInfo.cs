@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TikTakEngine")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+098fc24da6fc6bad1f7a231b51ca4a207830aa53")]
 [assembly: System.Reflection.AssemblyProductAttribute("TikTakEngine")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TikTakEngine")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
