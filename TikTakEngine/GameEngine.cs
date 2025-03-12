@@ -30,6 +30,7 @@ public class GameEngine
         if (row < 0 || row >= BoardSize || col < 0 || col >= BoardSize || board[row, col] != '-')
             return false;
         board[row, col] = currentPlayer;
+        SwitchPlayer();
         return true;
     }
 

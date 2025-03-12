@@ -1,0 +1,12 @@
+C:\Users\Disa\Desktop\TikTakGame\TikTakEngine\bin\Debug\net8.0\TikTakEngine.deps.json
+C:\Users\Disa\Desktop\TikTakGame\TikTakEngine\bin\Debug\net8.0\TikTakEngine.dll
+C:\Users\Disa\Desktop\TikTakGame\TikTakEngine\bin\Debug\net8.0\TikTakEngine.pdb
+C:\Users\Disa\Desktop\TikTakGame\TikTakEngine\obj\Debug\net8.0\TikTakEngine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Disa\Desktop\TikTakGame\TikTakEngine\obj\Debug\net8.0\TikTakEngine.AssemblyInfoInputs.cache
+C:\Users\Disa\Desktop\TikTakGame\TikTakEngine\obj\Debug\net8.0\TikTakEngine.AssemblyInfo.cs
+C:\Users\Disa\Desktop\TikTakGame\TikTakEngine\obj\Debug\net8.0\TikTakEngine.csproj.CoreCompileInputs.cache
+C:\Users\Disa\Desktop\TikTakGame\TikTakEngine\obj\Debug\net8.0\TikTakEngine.sourcelink.json
+C:\Users\Disa\Desktop\TikTakGame\TikTakEngine\obj\Debug\net8.0\TikTakEngine.dll
+C:\Users\Disa\Desktop\TikTakGame\TikTakEngine\obj\Debug\net8.0\refint\TikTakEngine.dll
+C:\Users\Disa\Desktop\TikTakGame\TikTakEngine\obj\Debug\net8.0\TikTakEngine.pdb
+C:\Users\Disa\Desktop\TikTakGame\TikTakEngine\obj\Debug\net8.0\ref\TikTakEngine.dll
